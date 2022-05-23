@@ -16,4 +16,4 @@
 - 시각화 : matplotlib, seaborn, WordCloud
 
 ## 4. 상세 내용
-- [블로그 바로가기](http://jaydatum.tistory.com/)
+- [블로그 바로가기](https://jaydatum.tistory.com/category/Jay%27s%20Project/wanted%20%EC%B1%84%EC%9A%A9%20%EA%B3%B5%EA%B3%A0%20%EB%B6%84%EC%84%9D)
