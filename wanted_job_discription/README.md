@@ -1,5 +1,5 @@
 # 원티드 데이터 분석가 채용 공고 분석
-
+![wanted_thumbnail](https://user-images.githubusercontent.com/98443610/169904199-1a3d24dd-0627-45cf-b68d-7f59377b7791.JPG)
 ## 1. 프로젝트 개요
 - 데이터 분석 부트캠프 첫번째 프로젝트
 - 채용 플랫폼 원티드의 job discription을 통해 분석가의 직무 요건에 대한 시장 분석
