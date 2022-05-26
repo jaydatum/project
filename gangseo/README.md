@@ -95,4 +95,4 @@
 
 ## 4. 상세 내용
 
-- [블로그 바로가기](https://jaydatum.tistory.com/category/Jay%27s%20Project/wanted%20%EC%B1%84%EC%9A%A9%20%EA%B3%B5%EA%B3%A0%20%EB%B6%84%EC%84%9D)
+- [블로그 바로가기](https://jaydatum.tistory.com/category/Jay%27s%20Project/%EA%B0%95%EC%84%9C%20WITH%20YOU%20%3A%20%EA%B0%95%EC%84%9C%EA%B5%AC%201%EC%9D%B8%20%EA%B0%80%EA%B5%AC%20%EC%A2%85%ED%95%A9%20%EC%A7%80%EC%9B%90%20%EC%84%9C%EB%B9%84%EC%8A%A4)
