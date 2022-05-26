@@ -25,4 +25,4 @@
 - 감성분석 : sklearn
 
 ## 4. 상세 내용
-- [블로그 바로가기](https://jaydatum.tistory.com/category/Jay%27s%20Project/wanted%20%EC%B1%84%EC%9A%A9%20%EA%B3%B5%EA%B3%A0%20%EB%B6%84%EC%84%9D)
+- [블로그 바로가기](https://jaydatum.tistory.com/category/Jay%27s%20Project/metacritic%20%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EC%86%8C%EB%93%9C%26%EC%8B%A4%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EB%B6%84%EC%84%9D)
