@@ -1,10 +1,10 @@
-**# 강서구 빅데이터 활용 공모전 팀 프로젝트**
+# 강서구 빅데이터 활용 공모전 팀 프로젝트
 
 [공모전 URL](https://www.gangseo.seoul.kr/gs040101/279539)  
 
 [Notion 페이지](https://www.notion.so/03ee8005b9d14a5ab5af0a62f66a519f?v=cf5addc792714f3db63f1e46508cd28f)
 
-**## 0. 팀 프로젝트 **
+## 0. 팀 프로젝트
 
 - 주제 : 강서 WITH YOU : 강서구 1인 가구 종합 지원 서비스
 
@@ -14,7 +14,7 @@
 - 프로젝트 진행기간 : 2022/3/1 ~ 2022/3/24
 - 결과 : 본선 진출 실패
 
-**## 1. 프로젝트 개요**
+## 1. 프로젝트 개요
 
 - 주제 선정 : 강서구 1인 가구 종합 지원 서비스 
 
@@ -26,11 +26,11 @@
 
 
 
-**## 2. Workflow**
+## 2. Workflow
 
-\- 주제선정 : 강서구 특성 분석 - 서울시 내 1인 가구 수 관악구에 이어 2위 
+- 주제선정 : 강서구 특성 분석 - 서울시 내 1인 가구 수 관악구에 이어 2위 
 
-\- 피처 선정
+- 피처 선정
 
 | 카테고리  |                          상세 내용                           |
 | :-------: | :----------------------------------------------------------: |
@@ -84,7 +84,7 @@
 
 - 시나리오 app 구현
 
-**## 3. 기술 스택**
+## 3. 기술 스택
 
 - 크롤링 : BeautifulSoup, Selenium, request
 
@@ -93,6 +93,6 @@
 - 상관 분석 : R(psych, PerformanceAnalytics, corrgram)
 - 시나리오 앱 : powerpoint
 
-**## 4. 상세 내용**
+## 4. 상세 내용
 
-\- [블로그 바로가기](https://jaydatum.tistory.com/category/Jay%27s%20Project/wanted%20%EC%B1%84%EC%9A%A9%20%EA%B3%B5%EA%B3%A0%20%EB%B6%84%EC%84%9D)
+- [블로그 바로가기](https://jaydatum.tistory.com/category/Jay%27s%20Project/wanted%20%EC%B1%84%EC%9A%A9%20%EA%B3%B5%EA%B3%A0%20%EB%B6%84%EC%84%9D)
