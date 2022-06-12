@@ -32,7 +32,7 @@
 - 데이터수집 : 책 제목, 키워드, 사용자 리뷰와 해당 아이디(masking처리), 사용자 별점 
 
 - 크롤링 코드 작성  
-  ```python
+```python
   ## 전처리 함수 완성 ## 
 def preprocessing(total):
     k_total = int(re.sub('\D','',total))
